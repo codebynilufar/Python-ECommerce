@@ -1,12 +1,58 @@
 [
-  {
-    "id": "581f11fd-5272-45b0-954d-8a1f95908d92",
-    "username": "ali",
-    "password": "932f3c1b56257ce8539ac269d7aab42550dacf8818d075f0bdf1990562aae3ef",
-    "phone": "234134",
-    "first_name": "ali",
-    "last_name": "ali",
-    "age": "123",
-    "gender": "male"
-  }
+    {
+        "id": "581f11fd-5272-45b0-954d-8a1f95908d92",
+        "username": "ali",
+        "password": "932f3c1b56257ce8539ac269d7aab42550dacf8818d075f0bdf1990562aae3ef",
+        "phone": "234134",
+        "first_name": "ali",
+        "last_name": "ali",
+        "age": "123",
+        "gender": "male"
+    },
+    {
+        "id": "603c752b-32b8-4683-9008-ea86dc9b25c6",
+        "username": "nilufar",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "phone": "123456543",
+        "first_name": "nilufar",
+        "last_name": "hamrayeva",
+        "age": "19",
+        "gender": "female"
+    },
+    {
+        "username": "jhon",
+        "password": "12345678",
+        "phone": "1234567890",
+        "first_name": "jhon",
+        "last_name": "uesley",
+        "age": "22",
+        "gender": "male"
+    },
+    {
+        "username": "ron",
+        "password": "12345678",
+        "phone": "1234567890",
+        "first_name": "ron",
+        "last_name": "braun",
+        "age": "12",
+        "gender": "male"
+    },
+    {
+        "username": "harry",
+        "password": "123456789",
+        "phone": "1234567890",
+        "first_name": "harry",
+        "last_name": "potter",
+        "age": "17",
+        "gender": "male"
+    },
+    {
+        "username": "emma",
+        "password": "12345678",
+        "phone": "1234567890",
+        "first_name": "emma",
+        "last_name": "watson",
+        "age": "30",
+        "gender": "female"
+    }
 ]
